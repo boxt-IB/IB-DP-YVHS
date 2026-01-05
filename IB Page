@@ -1,0 +1,61 @@
+<section id="contact" style="padding:60px 20px; background:#0f1b2f; color:#ffffff;">
+  <div style="max-width:1000px; margin:auto;">
+    
+    <h2 style="font-size:32px; margin-bottom:10px;">
+      Contact the IB Team
+    </h2>
+    <p style="font-size:16px; max-width:700px; line-height:1.6; color:#d1d5db;">
+      Our IB team is here to support students and families with program planning,
+      diploma requirements, and the IB Core components.
+    </p>
+
+    <hr style="border:1px solid rgba(255,255,255,0.15); margin:30px 0;">
+
+    <!-- IB Coordinators -->
+    <h3 style="font-size:22px;">IB Coordinators</h3>
+    <ul style="list-style:none; padding-left:0; line-height:1.8;">
+      <li>
+        <strong>Tabatha Box</strong><br>
+        <a href="mailto:boxt@mdusd.org">boxt@mdusd.org</a>
+      </li>
+      <li style="margin-top:10px;">
+        <strong>Julia Flanagan-Schmidt</strong><br>
+        <a href="mailto:flanaganschmidtj@mdusd.org">flanaganschmidtj@mdusd.org</a>
+      </li>
+    </ul>
+
+    <!-- EE Coordinator -->
+    <h3 style="font-size:22px; margin-top:30px;">
+      Extended Essay (EE) Coordinator
+    </h3>
+    <ul style="list-style:none; padding-left:0; line-height:1.8;">
+      <li>
+        <strong>Ken Bragg</strong><br>
+        <a href="mailto:braggk@mdusd.org">braggk@mdusd.org</a>
+      </li>
+    </ul>
+
+    <!-- CAS Coordinators -->
+    <h3 style="font-size:22px; margin-top:30px;">
+      CAS Coordinators
+    </h3>
+    <ul style="list-style:none; padding-left:0; line-height:1.8;">
+      <li>
+        <strong>Sally Roth</strong><br>
+        <a href="mailto:roths@mdusd.org">roths@mdusd.org</a>
+      </li>
+      <li style="margin-top:10px;">
+        <strong>Guillaume Fournier</strong><br>
+        <a href="mailto:fournierg@mdusd.org">fournierg@mdusd.org</a>
+      </li>
+    </ul>
+
+    <p style="margin-top:30px; font-size:14px; color:#9ca3af;">
+      <strong>Who should I contact?</strong><br>
+      • Program & Diploma questions → IB Coordinators<br>
+      • Research & Extended Essay → EE Coordinator<br>
+      • CAS experiences & reflections → CAS Coordinators
+    </p>
+
+  </div>
+</section>
